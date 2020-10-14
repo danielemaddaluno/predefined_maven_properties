@@ -1,6 +1,6 @@
 # List of predefined Maven properties
 
-*This list originated from a wiki page from Codehaus (http://docs.codehaus.org/display/MAVENUSER/MavenPropertiesGuide) which unfortunately has been gone with the shutdown of Codehaus*
+*This list originated from a wiki page from Codehaus (https://web.archive.org/web/20150520200505if_/https://docs.codehaus.org/display/MAVENUSER/MavenPropertiesGuide) which unfortunately has been gone with the shutdown of Codehaus*
 
 
 Note: In Maven 3.0, all pom.* properties are deprecated. Use project.* instead!
